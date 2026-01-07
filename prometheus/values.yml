@@ -1,0 +1,3 @@
+server:
+  Service:
+    type: LoadBalancer
